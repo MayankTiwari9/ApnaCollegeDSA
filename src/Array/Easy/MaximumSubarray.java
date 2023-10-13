@@ -1,4 +1,4 @@
-package Array.Easy;
+
 
 public class MaximumSubarray {
     public static int maximumSub(int[] arr){
