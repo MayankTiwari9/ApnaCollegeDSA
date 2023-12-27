@@ -1,4 +1,4 @@
-
+package Array.Easy;
 public class MinAndMaxInArr {
     public static void minMaxSum(int[] arr){
         int n = arr.length;

@@ -1,3 +1,4 @@
+package Array.Easy;
 public class SearchinRotatedSortArr {
     public static int search(int arr[], int n, int target){
 

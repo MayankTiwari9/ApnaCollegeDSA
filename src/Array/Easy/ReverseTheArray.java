@@ -1,4 +1,4 @@
-
+package Array.Easy;
 public class ReverseTheArray {
     public static void reverse(int arr[]){
         int n = arr.length;

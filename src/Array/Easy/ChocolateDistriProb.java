@@ -1,3 +1,5 @@
+package Array.Easy;
+
 import java.util.*;
 public class ChocolateDistriProb {
     public static int findMinDiff(int[] arr, int n, int m){
