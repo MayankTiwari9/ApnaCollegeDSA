@@ -5,6 +5,7 @@ public class ProductOfArrExceptSelf {
         int n = nums.length;
         int result[] = new int[n];
 
+        /// Optmised Solution :- TC O(n) SC O(1)
         int leftProduct = 1;
 
         for (int i = 0; i < n; i++) {
